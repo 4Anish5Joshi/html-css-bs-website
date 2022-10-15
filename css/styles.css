@@ -96,6 +96,7 @@ i:hover {
 .nav-link {
   font-size: 1.2rem;
   font-family: "Montserrat-light";
+  text-align: left;
 }
 
 .download-button {
